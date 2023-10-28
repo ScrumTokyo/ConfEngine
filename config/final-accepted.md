@@ -20,7 +20,7 @@ Please note that only one speaker ticket will be issued per session. If more tha
 
 The next ticket release date is November 1st at noon.
 
-Please send us your slides (presentation materials) by December 22nd. You can make some changes up to the last minute, although it will affect the quality of the interpretation. We will hold the interpreter's meeting on the day with you. You will receive a Google calendar invitation for a Zoom meeting for it. Even if you present in-person (on-site), please bring your laptop and headset.
+(For English speaking sessions) Please send us your slides (presentation materials) by December 22nd. You can make some changes up to the last minute, although it will affect the quality of the interpretation. We will hold the interpreter's meeting on the day with you. You will receive a Google calendar invitation for a Zoom meeting for it. Even if you present in-person (on-site), please bring your laptop and headset.
 
 Please feel free to contact us with any questions or concerns. We thank you for your consideration and prompt response.
 
@@ -42,7 +42,7 @@ _$_DEADLINE_DATE_$_ までに、この[承認リンク](_$_ACCEPT_TO_PRESENT_URL
 - ソーシャルメディアとウェブサイトのURL
 カンファレンスホームページに掲載されているスケジュールをご確認ください。
 
-なお、スピーカー向けチケットの発行は1セッションにつき1枚とさせていただきます。複数名登壇の場合、2人目以降はチケットをご購入くださいますようお願いいたします。次回のチケット発売日は11/1 (火) 正午となっています。
+なお、**スピーカー向けチケットの発行は1セッションにつき1枚**とさせていただきます。複数名登壇の場合、**2人目以降はチケットをご購入ください**ますようお願いいたします。次回のチケット発売日は11月1日の正午となっています。
 
 "online-interpretation"タグがつけられているセッションは、日英通訳対象のセッションです。通訳者との調整が必要なため12月22日までに投影資料の事前提出をお願いいたします。（通訳の品質に影響しますが、直前まで資料を更新していただくことは可能です。）
 当日はセッション前にZoomにて通訳者との打ち合わせを設定します。後日Googleカレンダーの招待をお送りしますのでご確認ください。オンサイトで登壇される方もPCやヘッドセット等をお持ちください。
